@@ -25,4 +25,13 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 - VS Code - Development environment
 - Responsive Design Tools - Chrome DevTools, etc.
 
-## 📂 Project Structure
+
+## 🖥️ Live Demo
+
+Check out the live version: [https://afom12.github.io/Portfolio-eg/](https://afom12.github.io/Portfolio-eg/)
+
+## 🔧 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/afom12/Portfolio-eg.git
