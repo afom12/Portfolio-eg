@@ -25,7 +25,6 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 - VS Code - Development environment
 - Responsive Design Tools - Chrome DevTools, etc.
 
-
 ## 🖥️ Live Demo
 
 Check out the live version: [https://afom12.github.io/Portfolio-eg/](https://afom12.github.io/Portfolio-eg/)
