@@ -10,7 +10,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 - **Animated Components** - GSAP animations for smooth transitions
 - **Project Showcase** - Highlighted work with detailed descriptions
 - **Skills Visualization** - Interactive skill bars and categories
-- **Contact Form** - Easy way to get in touch
+- Contact Form - Easy way to get in touch
 
 ## 🛠 Technologies Used
 
