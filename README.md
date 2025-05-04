@@ -2,7 +2,6 @@
 
 
 
-
 # Portfolio-Example
 
 A modern, responsive portfolio website showcasing my projects, skills, and experience as a software engineer. Built with cutting-edge web technologies and featuring smooth animations.
